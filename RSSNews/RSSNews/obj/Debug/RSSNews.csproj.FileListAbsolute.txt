@@ -1,0 +1,10 @@
+c:\users\mandersson\documents\visual studio 2013\Projects\RSSNews\RSSNews\RSSNews\bin\Debug\RSSNews.dll
+c:\users\mandersson\documents\visual studio 2013\Projects\RSSNews\RSSNews\RSSNews\bin\Debug\RSSNews.pdb
+c:\users\mandersson\documents\visual studio 2013\Projects\RSSNews\RSSNews\RSSNews\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\mandersson\documents\visual studio 2013\Projects\RSSNews\RSSNews\RSSNews\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\mandersson\documents\visual studio 2013\Projects\RSSNews\RSSNews\RSSNews\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\mandersson\documents\visual studio 2013\Projects\RSSNews\RSSNews\RSSNews\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\mandersson\documents\visual studio 2013\Projects\RSSNews\RSSNews\RSSNews\obj\Debug\RSSNews.csprojResolveAssemblyReference.cache
+c:\users\mandersson\documents\visual studio 2013\Projects\RSSNews\RSSNews\RSSNews\obj\Debug\RSSNews.dll
+c:\users\mandersson\documents\visual studio 2013\Projects\RSSNews\RSSNews\RSSNews\obj\Debug\RSSNews.pdb
+c:\users\mandersson\documents\visual studio 2013\Projects\RSSNews\RSSNews\RSSNews\obj\Debug\MainView.xaml.g.cs
